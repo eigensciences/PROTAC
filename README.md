@@ -4,8 +4,6 @@
 Aditi Kuthanoor****
 
 School Name: Eastlake High School, Sammamish, WA 98074, United States
-email: kuthanooraditi@gmail.com
-
 
 This repository contains files related to OAT1 docking. You can download and access these files using 7zip software, which can be downloaded from [this link](https://www.7-zip.org/).
 
