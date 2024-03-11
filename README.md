@@ -24,4 +24,4 @@ This repository contains files related to OAT1 docking. You can download and acc
 
 ## Note
 
-- For any inquiries or issues regarding the files, feel free to open an issue in this repository. Or email at eigensciences@gmail.com or kuthanooraditi@gmail.com
+- For any inquiries or issues regarding the files, feel free to open an issue in this repository. Or email at eigensciences@gmail.com
